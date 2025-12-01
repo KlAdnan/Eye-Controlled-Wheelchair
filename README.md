@@ -233,6 +233,49 @@ For questions or collaboration opportunities:
 
 **Note**: This is an academic project designed for educational purposes. Clinical implementation would require additional safety certifications and medical device approvals.
 
+
+## 📸 Project Gallery
+
+### System Implementation
+
+**👉 TO ADD IMAGES:** Click the edit button (pencil icon) above, then drag and drop your images or press Ctrl+V to paste them directly here!
+
+<!-- Paste your system prototype image below -->
+![System Prototype](docs/PROTOTYPE.jpg)
+
+<!-- Add more system implementation photos here -->
+<!-- Example: ![System in Action](docs/system_action.jpg) -->
+
+### Circuit Diagrams
+
+<!-- Add your circuit diagram images here -->
+<!-- Example: ![Circuit Diagram](docs/circuit_diagram.png) -->
+
+### Eye Tracking Demo
+
+<!-- Add eye tracking demonstration screenshots/photos here -->
+<!-- Example: ![Eye Tracking Demo](docs/eye_tracking_demo.jpg) -->
+
+### Hardware Components
+
+<!-- Add photos of individual hardware components here -->
+<!-- Example: ![Arduino Setup](docs/arduino_setup.jpg) -->
+<!-- Example: ![Motor Driver](docs/motor_driver.jpg) -->
+
+### Video Demonstrations
+
+📹 **Demo Videos:** Upload your demonstration videos to the `docs/videos/` folder
+
+Once uploaded, you can link them here:
+```markdown
+[Watch Demo Video](docs/videos/demo.mp4)
+```
+
+Or embed if hosted on YouTube/Vimeo:
+```markdown
+[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+```
+
 ## 🔮 Future Enhancements
 
 - Machine learning for improved gaze accuracy
