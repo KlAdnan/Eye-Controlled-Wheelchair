@@ -42,8 +42,7 @@ This project implements a hands-free wheelchair control system that uses real-ti
   - Automatic emergency stop at <20 cm
   - Warning alerts at 20-50 cm
  
-  - ![Ultrasonic sensor zones](ultrasonic-sensor-use-case.jpg)
-- **User Feedback**: Voice announcements for all actions
+   - ![Ultrasonic sensor zones](ultrasonic%20sensor%20use%20case.png)- **User Feedback**: Voice announcements for all actions
 - **Wireless Communication**: HC-05 Bluetooth module (9600 baud)
 - **Reliable Navigation**: Differential steering with DC gear motors
 
@@ -231,14 +230,15 @@ For questions or collaboration opportunities:
 
 ![System Prototype](docs/PROTOTYPE.jpg)
 
+![Prototype working model](Prototype%20working%20model.png)
+
 
 ### Circuit Diagrams
 
 
 ### Eye Tracking Demo
 
-![Eye gaze direction tracking](Eye-direction-analysis.jpg)
-
+![Eye gaze direction tracking](Eye%20direction%20analysis.jpeg)
 
 ### Hardware Components
 
