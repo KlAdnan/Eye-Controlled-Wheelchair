@@ -230,8 +230,7 @@ For questions or collaboration opportunities:
 
 ![System Prototype](docs/PROTOTYPE.jpg)
 
-![Prototype working model](Prototype%20working%20model.png)
-
+![Prototype working model](docs/working%20prototype.png)
 
 ### Circuit Diagrams
 
