@@ -2,9 +2,8 @@
 
 ![Eye Control Wheelchair](EYE%20CONTROL%20WHEELCHAIR.png)
 
-![Components](COMPONENTS.png)
 
-![EAR Organization](EAR%20ORG.jpeg)
+
 
 ## 🎯 Overview
 
@@ -35,17 +34,7 @@ This project implements a hands-free wheelchair control system that uses real-ti
 
 ## 🔧 Hardware Components
 
-| Component | Specification | Quantity | Cost (INR) |
-|-----------|---------------|----------|------------|
-| Arduino Uno | ATmega328P, 16 MHz | 1 | ₹500 |
-| L298N Motor Driver | 2A/channel, 12V | 1 | ₹150 |
-| DC Gear Motors | 110 RPM, 12V | 2 | ₹320 |
-| HC-SR04 Ultrasonic | 2-400 cm range | 2 | ₹300 |
-| HC-05 Bluetooth | 10m range | 1 | ₹340 |
-| Lead-Acid Battery | 15V, 3000 mAh | 1 | Included |
-| Chassis & Wheels | - | 1 set | ₹600 |
-| Miscellaneous | Wires, sensors | - | ₹310 |
-| **Total** | | | **₹2,520** |
+![Components](COMPONENTS.png)
 
 ## 💻 Software Requirements
 
@@ -57,6 +46,9 @@ This project implements a hands-free wheelchair control system that uses real-ti
   - pyttsx3 (text-to-speech)
 - **Arduino IDE** for microcontroller programming
 - **dlib shape predictor**: `shape_predictor_68_face_landmarks.dat`
+
+
+![EAR Organization](EAR%20ORG.jpeg)
 
 ## 🏗️ System Architecture
 
