@@ -9,12 +9,6 @@
 
 This project implements a hands-free wheelchair control system that uses real-time eye tracking to translate gaze direction and eye gestures into movement commands. Developed as a B.Tech final year project at College of Engineering Thalassery (2024-25), it demonstrates the potential of affordable assistive technology.
 
-**Key Innovations:**
-- Non-invasive video-based eye tracking
-- Real-time obstacle detection and avoidance
-- Voice feedback for enhanced user experience
-- Cost-effective solution (₹2,520 total)
-
 ## ✨ Features
 
 - **Real-Time Eye Tracking**: 25 FPS processing using dlib facial landmark detection
