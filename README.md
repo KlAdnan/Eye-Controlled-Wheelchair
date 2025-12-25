@@ -23,7 +23,7 @@ This project implements a hands-free wheelchair control system that uses real-ti
   - Automatic emergency stop at <20 cm
   - Warning alerts at 20-50 cm
  
-  [Ultrasonic sensor safety zones](ultrasonic%20sensor%20use%20case.png)
+ 
  
 - **User Feedback**: Voice announcements for all actions- **Wireless Communication**: HC-05 Bluetooth module (9600 baud)
 - **Reliable Navigation**: Differential steering with DC gear motors
@@ -144,6 +144,8 @@ ser = serial.Serial('COM4', 9600, timeout=1)  # Change COM4 to your port
 | Left | Reverse | Forward | Turn Left |
 | Right | Forward | Reverse | Turn Right |
 | Eyes Closed | Stop | Stop | Stop/Start Toggle |
+
+ [Ultrasonic sensor safety zones](ultrasonic%20sensor%20use%20case.png)
 
 ## 📁 Project Structure
 
