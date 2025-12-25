@@ -43,6 +43,8 @@ This project implements a hands-free wheelchair control system that uses real-ti
 - **Arduino IDE** for microcontroller programming
 - **dlib shape predictor**: `shape_predictor_68_face_landmarks.dat`
 
+- ![Software Requirements](WhatsApp%20Image%202025-12-25%20at%2010.15.13%20PM.jpeg)
+
 
 
 
