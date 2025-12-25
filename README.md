@@ -183,7 +183,6 @@ For questions or collaboration opportunities:
 
 
 
-### Video Demonstrations
 
 
 ## 🔮 Future Enhancements
