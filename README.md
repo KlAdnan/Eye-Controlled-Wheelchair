@@ -145,8 +145,7 @@ ser = serial.Serial('COM4', 9600, timeout=1)  # Change COM4 to your port
 | Right | Forward | Reverse | Turn Right |
 | Eyes Closed | Stop | Stop | Stop/Start Toggle |
 
- [Ultrasonic sensor safety zones](ultrasonic%20sensor%20use%20case.png)
-
+![Ultrasonic sensor safety zones](ultrasonic%20sensor%20use%20case.png)
 ## 📁 Project Structure
 
 ```
