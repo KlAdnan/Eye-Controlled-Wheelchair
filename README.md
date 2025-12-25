@@ -129,6 +129,8 @@ ser = serial.Serial('COM4', 9600, timeout=1)  # Change COM4 to your port
 
 
 ### Gaze Direction Detection
+
+![Eye gaze direction tracking](Eye%20direction%20analysis.jpeg)
 1. Extract eye region from facial landmarks (points 36-47)
 2. Apply binary thresholding to isolate pupil
 3. Calculate pupil centroid using contour detection
@@ -206,14 +208,32 @@ For questions or collaboration opportunities:
 
 ![Prototype working model](docs/working%20prototype.png)
 
-### Circuit Diagrams
 
 
-### Eye Tracking Demo
 
-![Eye gaze direction tracking](Eye%20direction%20analysis.jpeg)
 
-### Hardware Components
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Video Demonstrations
