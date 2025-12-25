@@ -11,7 +11,7 @@
 
 This project implements a hands-free wheelchair control system that uses real-time eye tracking to translate gaze direction and eye gestures into movement commands. Developed as a B.Tech final year project at College of Engineering Thalassery (2024-25), it demonstrates the potential of affordable assistive technology.
 
-## ✨ Features
+## ✨ Features 
 
 - **Real-Time Eye Tracking**: 25 FPS processing using dlib facial landmark detection
 - **Intuitive Control**: 
@@ -168,6 +168,7 @@ Eye-Controlled-Wheelchair/
 ```
 
 ## 📊 Results
+![System Prototype](docs/PROTOTYPE.jpg)
 
 - **Processing Speed**: 25 FPS (real-time)
 - **Face Detection Latency**: <50 ms
@@ -177,34 +178,21 @@ Eye-Controlled-Wheelchair/
 - **Obstacle Detection Range**: 2-50 cm (critical stop at <20 cm)
 
 
-## 🙏 Acknowledgments
-
-We express our sincere gratitude to:
-- Dr. Sudheer V.R, Head of Department, ECE
-- Prof. Deepthy Mathew, Project Coordinator
-- APJ Abdul Kalam Technological University
-- College of Engineering Thalassery
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
 
 For questions or collaboration opportunities:
-- GitHub Issues: [Report a bug](https://github.com/YourUsername/Eye-Controlled-Wheelchair/issues)
-- Email: [Contact contributors via GitHub]
+- Email: mohammedadnanyakoob@gmail.com
+- whatsapp +91 7736205765
 
----
 
-**Note**: This is an academic project designed for educational purposes. Clinical implementation would require additional safety certifications and medical device approvals.
 
 
 ## 📸 Project Gallery
 
 ### System Implementation
 
-![System Prototype](docs/PROTOTYPE.jpg)
+
 
 ![Prototype working model](docs/working%20prototype.png)
 
