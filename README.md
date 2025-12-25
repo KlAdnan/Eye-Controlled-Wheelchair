@@ -48,7 +48,7 @@ This project implements a hands-free wheelchair control system that uses real-ti
 - **dlib shape predictor**: `shape_predictor_68_face_landmarks.dat`
 
 
-![EAR Organization](EAR%20ORG.jpeg)
+
 
 ## 🏗️ System Architecture
 
@@ -126,13 +126,11 @@ ser = serial.Serial('COM4', 9600, timeout=1)  # Change COM4 to your port
 ## 🔍 How It Works
 
 ### Eye Aspect Ratio (EAR)
-The system uses EAR to detect eye closure:
 
-```
-EAR = (|p2 - p6| + |p3 - p5|) / (2 * |p1 - p4|)
-```
+![EAR Organization](EAR%20ORG.jpeg)
 
-Where p1-p6 are eye landmark coordinates. EAR < 0.25 indicates closed eyes.
+
+
 
 ### Gaze Direction Detection
 1. Extract eye region from facial landmarks (points 36-47)
