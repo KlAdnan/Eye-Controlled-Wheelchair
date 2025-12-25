@@ -1,26 +1,6 @@
-# Eye-Controlled Wheelchair
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Arduino](https://img.shields.io/badge/Arduino-Uno-teal.svg)](https://www.arduino.cc/)
-
-An assistive technology project enabling wheelchair control through eye movements using computer vision and Arduino. This system empowers individuals with severe mobility impairments to navigate independently using intuitive eye gestures.
 
 ![Eye Control Wheelchair](EYE%20CONTROL%20WHEELCHAIR.png)
-
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Hardware Components](#hardware-components)
-- [Software Requirements](#software-requirements)
-- [System Architecture](#system-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Project Structure](#project-structure)
-- [Results](#results)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## 🎯 Overview
 
