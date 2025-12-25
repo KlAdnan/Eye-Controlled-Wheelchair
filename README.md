@@ -6,6 +6,8 @@
 
 An assistive technology project enabling wheelchair control through eye movements using computer vision and Arduino. This system empowers individuals with severe mobility impairments to navigate independently using intuitive eye gestures.
 
+![Eye Control Wheelchair](EYE%20CONTROL%20WHEELCHAIR.png)
+
 ## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
