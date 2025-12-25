@@ -32,16 +32,7 @@ This project implements a hands-free wheelchair control system that uses real-ti
 
 ![Components](COMPONENTS.png)
 
-## 💻 Software Requirements
 
-- **Python 3.8+** with libraries:
-  - OpenCV (`cv2`)
-  - dlib
-  - NumPy
-  - pyserial
-  - pyttsx3 (text-to-speech)
-- **Arduino IDE** for microcontroller programming
-- **dlib shape predictor**: `shape_predictor_68_face_landmarks.dat`
 
 ![Software Requirements](reve-v1.1_a_chnage_the_bg_of_thi.png)
 
