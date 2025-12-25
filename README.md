@@ -16,7 +16,7 @@ This project implements a hands-free wheelchair control system that uses real-ti
 
 ![Components](COMPONENTS.png)
 
-
+## 🖥️ Software Components
 
 ![Software Requirements](reve-v1.1_a_chnage_the_bg_of_thi.png)
 
