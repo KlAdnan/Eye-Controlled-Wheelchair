@@ -11,22 +11,6 @@
 
 This project implements a hands-free wheelchair control system that uses real-time eye tracking to translate gaze direction and eye gestures into movement commands. Developed as a B.Tech final year project at College of Engineering Thalassery (2024-25), it demonstrates the potential of affordable assistive technology.
 
-## ✨ Features 
-
-- **Real-Time Eye Tracking**: 25 FPS processing using dlib facial landmark detection
-- **Intuitive Control**: 
-  - Gaze left/right for turning
-  - Gaze center for forward movement
-  - Sustained eye closure (1.5s) to start/stop
-- **Safety First**: 
-  - Ultrasonic obstacle detection (2-50 cm range)
-  - Automatic emergency stop at <20 cm
-  - Warning alerts at 20-50 cm
- 
- 
- 
-- **User Feedback**: Voice announcements for all actions- **Wireless Communication**: HC-05 Bluetooth module (9600 baud)
-- **Reliable Navigation**: Differential steering with DC gear motors
 
 ## 🔧 Hardware Components
 
@@ -140,24 +124,7 @@ ser = serial.Serial('COM4', 9600, timeout=1)  # Change COM4 to your port
 | Eyes Closed | Stop | Stop | Stop/Start Toggle |
 
 ![Ultrasonic sensor safety zones](ultrasonic%20sensor%20use%20case.png)
-## 📁 Project Structure
 
-```
-Eye-Controlled-Wheelchair/
-├── arduino/
-│   └── wheelchair_control.ino      # Motor control & sensor code
-├── python/
-│   ├── eye_tracking.py             # Main eye tracking script
-│   └── shape_predictor_68_face_landmarks.dat
-├── docs/
-│   ├── circuit_diagram.png         # Wiring schematic
-│   ├── project_report.pdf          # Full technical report
-│   └── system_images/              # Photos of implementation
-├── videos/
-│   └── demo.mp4                    # System demonstration
-├── README.md
-└── LICENSE
-```
 
 ## 📊 Results
 ![System Prototype](docs/PROTOTYPE.jpg)
